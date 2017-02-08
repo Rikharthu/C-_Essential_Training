@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Masking", "Masking\Masking.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleArguments", "ConsoleArguments\ConsoleArguments.vcxproj", "{5ABFBCCD-553A-46D6-80FC-91D773953DFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Classes Demo", "Classes Demo\Classes Demo.vcxproj", "{82114BC5-159A-4B2A-B255-58635C3E32ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{5ABFBCCD-553A-46D6-80FC-91D773953DFA}.Release|x64.Build.0 = Release|x64
 		{5ABFBCCD-553A-46D6-80FC-91D773953DFA}.Release|x86.ActiveCfg = Release|Win32
 		{5ABFBCCD-553A-46D6-80FC-91D773953DFA}.Release|x86.Build.0 = Release|Win32
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Debug|x64.ActiveCfg = Debug|x64
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Debug|x64.Build.0 = Debug|x64
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Debug|x86.Build.0 = Debug|Win32
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Release|x64.ActiveCfg = Release|x64
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Release|x64.Build.0 = Release|x64
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Release|x86.ActiveCfg = Release|Win32
+		{82114BC5-159A-4B2A-B255-58635C3E32ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <iostream>
+#include "PointersToPointers.h"
 
 
 using namespace std;
@@ -160,6 +161,8 @@ int main(int argc, char** argv) {
 	cout << *pResult << endl;   // 81
 	cout << number2 << endl;    // 81
 
+	// Pointers-to-Pointers demo:
+	PointersToPointers::show();
 
 	getchar();
 	return 0;

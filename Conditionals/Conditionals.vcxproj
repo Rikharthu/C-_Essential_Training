@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7BEF057A-8D37-4F44-81FB-A591CE8ABEB2}</ProjectGuid>
-    <RootNamespace>PointersAndReferences</RootNamespace>
+    <ProjectGuid>{0EAE001B-0694-414A-9683-A233C0F7CFF3}</ProjectGuid>
+    <RootNamespace>Conditionals</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="PointersToPointers.h" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
